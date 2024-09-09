@@ -43,7 +43,7 @@ def get_repo_details(repo_url):
     return repo_details
 
 def get_repo():
-    url = "https://github.com/mParthSaharanf?tab=repositories"
+    url = "link/to/your/repo"
     response = requests.get(url, headers={'User-Agent': "Mozilla/5.0"})
     if response.status_code != 200:
         print("Error occurred while accessing the profile page")
