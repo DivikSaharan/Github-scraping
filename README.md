@@ -75,8 +75,6 @@ Scraping repository: https://github.com/username/repository1
 ## Contributing
 Feel free to contribute by creating a pull request. If you encounter any issues or have suggestions for improvements, please open an issue.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 For any questions or comments, please contact DivikSaharan .
